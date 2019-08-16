@@ -42,8 +42,8 @@ float totalLitres;
 float totalMeterCube;
 float bill;
 
-char ssid[] = "lemongrasstech@unifi";
-char pass[] = "lGt12345";
+char ssid[] = "wifiSSID";
+char pass[] = "wifiPass";
 int status = WL_IDLE_STATUS;
 
 unsigned long myChannelNumber = 123456;
